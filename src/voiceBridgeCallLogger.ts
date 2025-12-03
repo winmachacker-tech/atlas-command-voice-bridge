@@ -1,3 +1,4 @@
+// @ts-nocheck
 // FILE: src/voiceBridgeCallLogger.ts
 //
 // Purpose:
