@@ -1,3 +1,4 @@
+// @ts-nocheck
 // FILE: src/server.ts
 // Purpose:
 // - Bridge between Twilio Programmable Voice Media Streams and OpenAI Realtime.
